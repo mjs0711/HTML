@@ -7,9 +7,9 @@
 <title>사용자 입력 품</title>
 </head>
 <body>
-	<from action="ex04_result.jsp" >
-		<input type="text" name="name" placeholder="멋진사람입력" requreied>
-		<input type="submit" value="전송">
-	</from>
+	<form action="ex04_result.jsp">
+      <input type="text" name="name" placeholder="멋진사람입력" required>
+      <input type="submit" value="전송">
+   </form>
 </body>
 </html>
