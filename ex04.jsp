@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>사용자 입력 품</title>
 </head>
 <body>
 	<from action="ex04_result.jsp" >
