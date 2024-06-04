@@ -7,13 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
-<from action="ex06-result.jsp" method="get">
+<form action="ex06-result.jsp" method="get">
 	국어 : <input type="text" name="kor" required><br>
 	영어 : <input type="text" name="eng" required><br>
 	수학 : <input type="text" name="mat" required><br>
 	정보 : <input type="text" name="inf" required><br>
 	입력 : <input type="submit" value="확인">
 		  <input type="reset" value="재작성">
-</from>
+</form>
 </body>
 </html>
